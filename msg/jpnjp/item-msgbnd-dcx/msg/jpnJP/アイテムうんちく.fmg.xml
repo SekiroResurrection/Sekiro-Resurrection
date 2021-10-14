@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">NTCtext</text>
+<text id="2100">敵を背後忍殺したあと&lt;?kgiconKc@16?&gt;:血煙の術
+周囲に血の煙幕を生み出す
+形代を消費して、使用する</text>
+<text id="2101">%null%</text>
+<text id="2102">%null%</text>
+<text id="2103">%null%</text>
+<text id="2104">%null%</text>
+<text id="2105">%null%</text>
+<text id="2106">%null%</text>
+<text id="2107">%null%</text>
+<text id="2108">%null%</text>
+<text id="2109">%null%</text>
+<text id="2110">敵を背後忍殺したあと&lt;?kgiconKc@16?&gt;:傀儡の術
+忍殺した者を傀儡として操る
+形代を消費して、使用する</text>
+<text id="2111">%null%</text>
+<text id="2112">%null%</text>
+<text id="2113">%null%</text>
+<text id="2114">%null%</text>
+<text id="2115">%null%</text>
+<text id="2116">%null%</text>
+<text id="2117">%null%</text>
+<text id="2118">%null%</text>
+<text id="2119">%null%</text>
+<text id="2120">敵を背後忍殺したあと&lt;?kgiconKc@16?&gt;:血刀の術
+忍殺した者の血を、刀に纏わせる
+形代を消費して、使用する</text>
+<text id="2490">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:秘伝・桜舞い
+回転の勢いで舞うように跳び、三度斬りつける
+敵の下段攻撃を回避しつつ、鋭い斬撃で、
+ガードの上からでもダメージを与える
+
+攻撃後は、空中での攻防に繋げることもできる
+形代を消費して、使用する</text>
+</entries>
+</fmg>
