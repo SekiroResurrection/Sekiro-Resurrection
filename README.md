@@ -14,8 +14,8 @@ This mod offers:
 
 # Deatiled Changes/Logs
 
-* If you would like to know in detail what the Resurrection mod changes, visit our [Resurrection Wiki](https://github.com/SekiroResurrection/Sekiro-Resurrection/wiki)
-* Consequently, if you would like to  view a detailed log of changes, you can expand the changelogs section on our [nexus page](https://www.nexusmods.com/sekiro/mods/723)
+* If you would like to know in detail what the Resurrection mod changes, visit our [Resurrection Wiki](https://github.com/SekiroResurrection/Sekiro-Resurrection/wiki).
+* Consequently, if you would like to  view a detailed log of changes, you can expand the changelogs section on our [Nexus page](https://www.nexusmods.com/sekiro/mods/723).
 
 # Download on GitHub
 To download GitHub releases - especially beta releases - head on over to our **[Releases](https://github.com/SekiroResurrection/Sekiro-Resurrection/releases)** page.
@@ -27,6 +27,4 @@ You can also download **main** releases in our Nexus page.
 ➡ **[Sekiro: Resurrection on Nexus Mods](https://www.nexusmods.com/sekiro/mods/723)**
 
 # Join the Community!
-If you are interested in giving feeback on any aspect of the mod, contribute to the **Resurrection** project, have any new ideas, or are facing any problems while using the mod- feel free to join the **Sekiro: Resurrection** [discord community](https://discord.gg/z7HR5hQPpr)
-<br/>
-![Sekiro Resurrection banner](https://i.imgur.com/CCsavGu.png)
+If you are interested in giving feeback on any aspect of the mod, contribute to the **Resurrection** project, have any new ideas, are facing any problems while using the mod, or just want to geek out about Sekiro- feel free to join the **Sekiro: Resurrection** [Discord Community](https://discord.gg/z7HR5hQPpr)!
